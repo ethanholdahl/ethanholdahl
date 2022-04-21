@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholdahl&exclude_repo=github-readme-stats,oTree-Demos,oTree,lectures&title_color=17363b&text_color=833707&bg_color=9aa8ab&icon_color=17363b&hide=Procfile)](https://github.com/ethanholdahl)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanholdahl&show_icons=true&theme=radical)
 
 
 <!--
