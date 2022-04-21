@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholdahl&exclude_repo=github-readme-stats,oTree-Demos,oTree&title_color=17363b&text_color=833707&bg_color=9aa8ab&icon_color=17363b&hide=Procfile&count_private=true)](https://github.com/ethanholdahl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholdahl&exclude_repo=oTree-Demos,oTree&title_color=17363b&text_color=833707&bg_color=9aa8ab&icon_color=17363b&hide=Procfile&count_private=true)](https://github.com/ethanholdahl)
 
 
 <!--
