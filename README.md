@@ -1,8 +1,12 @@
-### Hi there 👋
+Hello! I'm Ethan Holdahl, a PhD student at the University of Oregon. 
 
+I do research in game theory and environmental economics and I have a passion for creating and using interative software.
+
+Consequently, I try to use Shiny (R) and oTree (Python) as much as I can. One goal for my career is to create a wide array of interactive content displaying my research as well as interactive educational content that is as accessible as possible.
+
+Please visit my website at (https://ethanholdahl.com)[https://ethanholdahl.com] to learn more about me and to check out some of my shiny apps!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholdahl&exclude_repo=oTree-Demos,oTree&title_color=17363b&text_color=833707&bg_color=9aa8ab&border_color=9aa8ab&icon_color=17363b&hide=Procfile&count_private=true)](https://github.com/ethanholdahl)
-
 
 <!--
 **ethanholdahl/ethanholdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
