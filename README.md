@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholdahl&exclude_repo=github-readme-stats,oTree-Demos,oTree,lectures)](https://github.com/ethanholdahl)
+
+
+
+
 <!--
 **ethanholdahl/ethanholdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
