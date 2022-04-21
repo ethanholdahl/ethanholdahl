@@ -1,6 +1,6 @@
 Hello! I'm Ethan Holdahl, a PhD student at the University of Oregon. 
 
-I do research in game theory and environmental economics and I have a passion for creating and using interative software.
+I do research in game theory and environmental economics and I have a passion for creating and using interactive software.
 
 Consequently, I try to use Shiny (R) and oTree (Python) as much as I can. One goal for my career is to create a wide array of interactive content displaying my research as well as interactive educational content that is as accessible as possible.
 
