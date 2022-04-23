@@ -4,6 +4,7 @@ I do research in game theory and environmental economics and I have a passion fo
 
 Consequently, I try to use Shiny (R) and oTree (Python) as much as I can in accompanying my work and as a resource in my teaching. I am inspired by [Primer](https://www.youtube.com/c/PrimerLearning) and [bill wurtz](https://www.youtube.com/user/billwurtz) on Youtube and am working to develop my programing skills to expand my toolset to create even more accessible and entertaining content. 
 
+
 Please visit my website at [EthanHoldahl.com](https://ethanholdahl.com/) to learn more about me and to check out some of my research and educational content! All of which, of course, is stored here on Github.
 
 
