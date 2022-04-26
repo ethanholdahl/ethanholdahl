@@ -8,7 +8,7 @@ Consequently, I try to use Shiny (R) and oTree (Python) as much as I can in acco
 Please visit my website at [EthanHoldahl.com](https://ethanholdahl.com/) to learn more about me and to check out some of my research and educational content! All of which, of course, is stored here on Github.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholdahl&exclude_repo=oTree-Demos,oTree&title_color=17363b&text_color=833707&bg_color=9aa8ab&border_color=9aa8ab&icon_color=17363b&hide=Procfile&langs_count=6&layout=compact)](https://github.com/ethanholdahl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholdahl&exclude_repo=oTree-Demos,oTree&title_color=004623&text_color=462300&bg_color=FFFFF&border_color=004623&icon_color=330046&hide=Procfile&langs_count=6&layout=compact)](https://github.com/ethanholdahl)
 
 <!--
 **ethanholdahl/ethanholdahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
