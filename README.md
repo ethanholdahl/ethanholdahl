@@ -1,6 +1,6 @@
 Hello! I'm Ethan Holdahl, a PhD candidate at the University of Oregon. Starting in the summer of 2023 I will join UC Irvine as a postdoctoral scholar researching the effects of payoff based selection pressure in evolutionary experiments.
 
-Generally speaking, I do research in game theory, experimental, and environmental economics and I have a passion for creating interactive software for my projects. Consequently, I try to use Shiny (R) and oTree (Python) as much as I can in accompanying my work and as a resource in my teaching. I am inspired by [Primer](https://www.youtube.com/c/PrimerLearning) and [bill wurtz](https://www.youtube.com/user/billwurtz) on Youtube and am working to expand my toolset to create even more accessible and engaging educational and research content. 
+Generally speaking, I do research in game theory, experimental, and environmental economics and I have a passion for creating interactive software for my projects. Consequently, I try to use Shiny (R) and oTree (Python) as much as I can in accompanying my work and as a resource in my teaching. I am constantly working to expand my toolset to create even more accessible and engaging educational and research content. 
 
 Please visit my website at [EthanHoldahl.com](https://ethanholdahl.com/) to learn more about me and to check out some of my research and educational content! All of which, of course, is stored here on Github.
 
