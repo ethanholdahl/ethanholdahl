@@ -1,4 +1,4 @@
-Hello! I'm Ethan Holdahl, a PhD candidate at the University of Oregon. Starting in the summer of 2023 I will join UC Irvine as a postdoctoral scholar researching the effects of payoff based selection pressure in evolutionary experiments.
+Hello! I'm Ethan Holdahl, a PhD candidate at the University of Oregon. Starting in the summer of 2023 I will join UC Irvine as a postdoctoral scholar researching the effects of payoff based selection pressure in evolutionary experiments. I will be on the 2023-2024 job market.
 
 Generally speaking, I do research in game theory, experimental, and environmental economics and I have a passion for creating interactive software for my projects. Consequently, I try to use Shiny (R) and oTree (Python) as much as I can in accompanying my work and as a resource in my teaching. I am constantly working to expand my toolset to create even more accessible and engaging educational and research content. 
 
