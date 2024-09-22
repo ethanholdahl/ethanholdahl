@@ -1,8 +1,6 @@
-Hello! I'm Ethan Holdahl, a PhD candidate at the University of Oregon. Starting in the summer of 2023 I will join UC Irvine as a postdoctoral scholar researching the effects of payoff based selection pressure in evolutionary experiments. I will be on the 2023-2024 job market.
+Hello! I'm Ethan Holdahl, I am a Visiting Assistant Professor at Williams College where I teach Intermediate Microeconomics and Game Theory. My research is primarily in experimental economics and game theory when I look at how different designs affect the evolution of behavior in populations. I completed my PhD at the University of Oregon in 2023 and am on the job market for the 2024-2025 cycle. 
 
-Generally speaking, I do research in game theory, experimental, and environmental economics and I have a passion for creating interactive software for my projects. Consequently, I try to use Shiny (R) and oTree (Python) as much as I can in accompanying my work and as a resource in my teaching. I am constantly working to expand my toolset to create even more accessible and engaging educational and research content. 
-
-Please visit my website at [EthanHoldahl.com](https://ethanholdahl.com/) to learn more about me and to check out some of my research and educational content!
+Please visit my website at [EthanHoldahl.com](https://ethanholdahl.com/) to learn more about me!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanholdahl&exclude_repo=oTree-Demos,oTree&title_color=004623&text_color=462300&bg_color=FFFFF&border_color=004623&icon_color=330046&hide=Procfile&langs_count=6&layout=compact)](https://github.com/ethanholdahl)
